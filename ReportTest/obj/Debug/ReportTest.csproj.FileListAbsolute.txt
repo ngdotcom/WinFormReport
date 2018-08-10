@@ -1,0 +1,12 @@
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\bin\Debug\ReportTest.exe.config
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\bin\Debug\ReportTest.exe
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\bin\Debug\ReportTest.pdb
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\bin\Debug\WorkLibrary.dll
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\bin\Debug\WorkLibrary.pdb
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.csprojResolveAssemblyReference.cache
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.LiquorForm.resources
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.Properties.Resources.resources
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.csproj.GenerateResource.Cache
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.csproj.CoreCompileInputs.cache
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.exe
+C:\Users\ngdotcom\source\repos\ReportTest\ReportTest\obj\Debug\ReportTest.pdb

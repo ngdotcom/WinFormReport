@@ -1,0 +1,6 @@
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\bin\Debug\WorkLibrary.dll
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\bin\Debug\WorkLibrary.pdb
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\obj\Debug\WorkLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\obj\Debug\WorkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\obj\Debug\WorkLibrary.dll
+C:\Users\ngdotcom\source\repos\ReportTest\WorkLibrary\obj\Debug\WorkLibrary.pdb
